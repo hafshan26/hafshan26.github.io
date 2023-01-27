@@ -1,0 +1,36 @@
+html{
+    background-color: rgb(5, 81, 81);
+}
+table {
+    width: 100%; 
+    border-collapse: collapse; 
+    font-family: Arial, sans-serif; 
+    margin: 10px 0; 
+    background-color: #8ed5f0;
+}
+th, td {
+    border: 2px solid #ddd; 
+    text-align: left;
+    padding: px; 
+    color: #0e0e0e;
+    font-size: 18px;
+}
+th {
+    background-color: #c62222; 
+    font-weight: bold; 
+}
+tr:nth-child(even) {
+    background-color: #768aa5
+}
+label{
+    font-size: 18px;
+    color: #1aafbc;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1aafbc;
+}
+footer{
+    font-size: 18px;
+    color:#1aafbc;
+}
